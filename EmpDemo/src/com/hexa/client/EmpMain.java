@@ -1,0 +1,11 @@
+package com.hexa.client;
+
+public class EmpMain {
+
+	public static void main(String[] args) {
+		
+	System.out.println("Welcome");
+
+	}
+
+}
